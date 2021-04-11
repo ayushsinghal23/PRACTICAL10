@@ -1,0 +1,22 @@
+.links > a{
+    display: flex;
+    margin: auto 10px;
+    color:rgb(240, 240, 240);
+    text-decoration: none;
+}
+.links > a:hover{
+    color:rgb(184, 181, 181)
+}
+
+.hero{
+    font-weight: 400;
+    font-size: 1.5rem;
+    color:white;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.hero:hover{
+    color:white;
+    text-decoration: none;
+}
